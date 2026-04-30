@@ -41,7 +41,6 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 | **Worst Sub‑Category** | Tables (–€20,731) |
 | **Discount Danger Zone** | 50% discounts almost always = negative profit |
 
-![Profit by Country](Image/profit_by_country.png)
 
 ---
 
@@ -70,7 +69,7 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 
 | Overview KPIs | Portugal Losses | Discount Impact |
 |---------------|----------------|------------------|
-| ![Overview](Image/overview.png) | ![Portugal](Image/profit_by_country.png) | ![Discount](Image/discount_loss.png) |
+| ![Overview](Image/1.png) | ![Portugal](Image/profit_by_country.png) | ![Discount](Image/discount_loss.png) |
 
 ---
 
