@@ -72,18 +72,32 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 Shows sales and profit trends from 2011 to 2014, plus a map/bar chart of European countries.  
 **Key takeaway**: Portugal, Netherlands, and Sweden are deep in the red – perfect proxy for emerging market risks.
 
+![Annual Sales & Country Profit](Image/1.png)
+
+---
+
 ### `2.png` – Strategic Category Overview & Discount Impact  
 Compares revenue vs net profit across Furniture, Office Supplies, and Technology.  
 Also lists top 10 products by sales volume and shows how discounts eat into profitability by category.  
 **Key takeaway**: Technology sells well, but discounts on Accessories hurt profit.
 
+![Category Overview & Discount Impact](Image/2.png)
+
+---
+
 ### `3.png` – Discount Sensitivity, Top Clients & Ship Modes  
 Highlights “leakage by sub‑category”, top 10 high‑value clients (e.g., Ashton Charles: €101k in sales), and revenue breakdown by ship mode and year.  
 **Key takeaway**: Economy shipping drives most revenue – a good lesson for MENA logistics.
 
+![Discount Sensitivity & Top Clients](Image/3.png)
+
+---
+
 ### `4.png` – Key Performance Indicators (KPIs)  
 One‑page summary: Total Sales (€10.67M), Total Profit (€283k), Profit Margin (2.65%), Number of Customers (792), Average Shipping Duration (3.97 days), Quantity Sold (30,354), and Unique Orders (4,117).  
 **Key takeaway**: At a glance, the business is large but margins are dangerously thin.
+
+![KPI Overview](Image/4.png)
 
 > All images are stored in the `/Image` folder of this repository.
 
