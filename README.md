@@ -34,7 +34,7 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 
 | Metric | Value |
 |--------|-------|
-| **Total Sales** | €10,668,464 (see Image 4) |
+| **Total Sales** | €10,668,464 |
 | **Total Profit** | €283,240 |
 | **Profit Margin** | ⚠️ 2.65% (very thin) |
 | **Number of Customers** | 792 |
@@ -42,8 +42,6 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 | **Worst Country** | Portugal (negative profit) |
 | **Worst Sub‑Category** | Tables (negative profit) |
 | **Discount Danger** | High discounts = low or negative profit |
-
-![Key Metrics](Image/4.png)
 
 ---
 
@@ -53,7 +51,7 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 |--------------------------------|---------------------|
 | ❌ Portugal, Netherlands lost money | ✅ Treat Portugal as a **proxy for Egypt** – similar logistics. Start with small discount tests. |
 | ❌ Tables & Accessories had negative profit | ✅ **Avoid discounts on Tables** in MENA. Focus on volume instead. |
-| ❌ High discounts killed margins (see Image 2 & 3) | ✅ Cap discounts at **20%** for the first 6 months in a new MENA market. |
+| ❌ High discounts killed margins | ✅ Cap discounts at **20%** for the first 6 months in a new MENA market. |
 | ❌ Some customers were unprofitable | ✅ Target **Consumer segment** (most profitable in Europe). |
 | ❌ Shipping cost = 4 days average | ✅ Use **Economy shipping** (most used in Europe) for cost control. |
 
@@ -68,20 +66,26 @@ Egypt and the broader MENA region are high‑growth markets, but they share simi
 
 ---
 
-## 📸 Images in this Project (all inside `/Image` folder)
+## 📸 Images (Screenshots from the project)
 
-| Image File | What it shows |
-|------------|----------------|
-| `1.png` | Annual sales & profit growth (2011–2014) + European profitability by country (Portugal negative) |
-| `2.png` | Strategic category overview (revenue vs profit), top 10 products, discount impact by category |
-| `3.png` | Discount sensitivity, leakage by sub‑category, top 10 high‑value clients, revenue by ship mode |
-| `4.png` | Key KPIs: total sales, profit, customers, shipping days, quantity, order count |
+### `1.png` – Annual Sales Growth & Country Profitability  
+Shows sales and profit trends from 2011 to 2014, plus a map/bar chart of European countries.  
+**Key takeaway**: Portugal, Netherlands, and Sweden are deep in the red – perfect proxy for emerging market risks.
 
-### Preview
+### `2.png` – Strategic Category Overview & Discount Impact  
+Compares revenue vs net profit across Furniture, Office Supplies, and Technology.  
+Also lists top 10 products by sales volume and shows how discounts eat into profitability by category.  
+**Key takeaway**: Technology sells well, but discounts on Accessories hurt profit.
 
-| 1. Country Profit | 2. Category & Discounts | 3. Top Clients | 4. KPI Overview |
-|------------------|------------------------|----------------|------------------|
-| ![Country Profit](Image/1.png) | ![Category](Image/2.png) | ![Top Clients](Image/3.png) | ![KPIs](Image/4.png) |
+### `3.png` – Discount Sensitivity, Top Clients & Ship Modes  
+Highlights “leakage by sub‑category”, top 10 high‑value clients (e.g., Ashton Charles: €101k in sales), and revenue breakdown by ship mode and year.  
+**Key takeaway**: Economy shipping drives most revenue – a good lesson for MENA logistics.
+
+### `4.png` – Key Performance Indicators (KPIs)  
+One‑page summary: Total Sales (€10.67M), Total Profit (€283k), Profit Margin (2.65%), Number of Customers (792), Average Shipping Duration (3.97 days), Quantity Sold (30,354), and Unique Orders (4,117).  
+**Key takeaway**: At a glance, the business is large but margins are dangerously thin.
+
+> All images are stored in the `/Image` folder of this repository.
 
 ---
 
